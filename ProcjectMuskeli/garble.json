@@ -1,0 +1,8 @@
+{
+  "output": "APPUBeamerV1.exe",
+  "trimpath": true,
+  "strings": true,
+  "vars": true,	 
+  "tiny": true
+}
+

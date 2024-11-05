@@ -1,0 +1,17 @@
+| Local State Path                                           | Cookies Path                                          |
+|----------------------------------------------------------|------------------------------------------------------|
+| C:\Users\Aarne\AppData\Local\Avast Software\Browser\User Data\Local State | C:\Users\Aarne\AppData\Local\Avast Software\Browser\User Data\Default\Network\Cookies |
+| C:\Users\Aarne\AppData\Local\BraveSoftware\Brave-Browser\User Data\Local State | C:\Users\Aarne\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Network\Cookies |
+| C:\Users\Aarne\AppData\Local\cc.vtrl\EBWebView\Local State | C:\Users\Aarne\AppData\Local\cc.vtrl\EBWebView\Default\Network\Cookies |
+| C:\Users\Aarne\AppData\Local\Google\Chrome\User Data\Local State | C:\Users\Aarne\AppData\Local\Google\Chrome\User Data\Default\Network\Cookies |
+| C:\Users\Aarne\AppData\Local\Microsoft\Edge\User Data\Local State | C:\Users\Aarne\AppData\Local\Microsoft\Edge\User Data\Default\Network\Cookies |
+| C:\Users\Aarne\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Local State | C:\Users\Aarne\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0000\EBWebView\Default\Network\Cookies |
+| C:\Users\Aarne\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0001\EBWebView\Local State | C:\Users\Aarne\AppData\Local\Microsoft\VisualStudio\WebView2Cache\0001\EBWebView\Default\Network\Cookies |
+| C:\Users\Aarne\AppData\Local\Packages\B9ECED6F.ArmouryCrate_qmba6cd70vzyy\LocalState\EBWebView\Local State | C:\Users\Aarne\AppData\Local\Packages\B9ECED6F.ArmouryCrate_qmba6cd70vzyy\LocalState\EBWebView\Default\Network\Cookies |
+| C:\Users\Aarne\AppData\Local\Packages\Microsoft.GamingServices_8wekyb3d8bbwe\LocalState\EBWebView\Local State | C:\Users\Aarne\AppData\Local\Packages\Microsoft.GamingServices_8wekyb3d8bbwe\LocalState\EBWebView\Default\Network\Cookies |
+| C:\Users\Aarne\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\LocalState\EBWebView\Local State | C:\Users\Aarne\AppData\Local\Packages\Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe\LocalState\EBWebView\Default\Network\Cookies |
+| C:\Users\Aarne\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Local State | C:\Users\Aarne\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Network\Cookies |
+| C:\Users\Aarne\AppData\Local\Roblox\UniversalApp\WebView2\EBWebView\Local State | C:\Users\Aarne\AppData\Local\Roblox\UniversalApp\WebView2\EBWebView\Default\Network\Cookies |
+| C:\Users\Aarne\AppData\Roaming\Adobe\UXP\PluginsStorage\PHSP\25\Shared\EBWebView\Local State | C:\Users\Aarne\AppData\Roaming\Adobe\UXP\PluginsStorage\PHSP\25\Shared\EBWebView\Default\Network\Cookies |
+| C:\Users\Aarne\AppData\Roaming\Growtopia.exe\EBWebView\Local State | C:\Users\Aarne\AppData\Roaming\Growtopia.exe\EBWebView\Default\Network\Cookies |
+| C:\Users\Aarne\AppData\Roaming\launcher.exe\EBWebView\Local State | C:\Users\Aarne\AppData\Roaming\launcher.exe\EBWebView\Default\Network\Cookies |

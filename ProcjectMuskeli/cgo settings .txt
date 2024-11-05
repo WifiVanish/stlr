@@ -1,0 +1,8 @@
+/*
+#cgo CFLAGS: -IC:/Users/Aarne/Desktop/ProcjectMuskeli/minhook/include
+#cgo LDFLAGS: -LC:/Users/Aarne/Desktop/ProcjectMuskeli/minhook/build/MinGW -lMinHook
+#cgo LDFLAGS: -lntdll
+#include "lib.h"
+#include "MinHook.h"
+*/
+import "C"
